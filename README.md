@@ -74,3 +74,9 @@ Editar
 **Autor**: Diego Sandoval Olguin  
 **Fecha**: Julio 2025  
 **Institucion**: Inacap / **Seccion**:N3-P14
+---
+
+## 🌐 Enlace del Repositorio
+
+Accede al código completo del proyecto aquí:  
+🔗 [https://github.com/diegolguin/matgym-registro](https://github.com/diegolguin/matgym-registro)
