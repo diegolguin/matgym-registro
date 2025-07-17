@@ -1,0 +1,44 @@
+.banner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: linear-gradient(to right, #ffcc00, #ff9900);
+    padding: 2rem;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+    margin-bottom: 2rem;
+  }
+  
+  .banner-texto h1 {
+    font-size: 2.8rem;
+    margin: 0;
+    color: #1c1c1c;
+  }
+  
+  .banner-texto p {
+    font-size: 1.2rem;
+    color: #333;
+  }
+  
+  .react-logo {
+    width: 80px;
+    animation: spin 12s linear infinite;
+    filter: drop-shadow(0 0 5px #61dafb);
+  }
+  
+  @keyframes spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+  }
+  .logo-matgym-banner {
+    width: 50px;
+    height: 50px;
+    border-radius: 8px;
+    background-color: white;
+    padding: 4px;
+    margin-left: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+    vertical-align: middle;
+    object-fit: contain;
+  }
+  

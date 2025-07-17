@@ -1,0 +1,46 @@
+.contest {
+    background-color: #ffffff;
+    text-align: center;
+    padding: 30px 20px;
+    border-radius: 12px;
+    margin-bottom: 40px;
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
+    position: relative;
+    transition: all 0.3s ease;
+  }
+  
+  .contest:hover {
+    box-shadow: 0 8px 22px rgba(0, 0, 0, 0.2);
+  }
+  
+  .contest .icon {
+    width: 80px;
+    height: auto;
+    margin-bottom: 15px;
+  }
+  
+  .galeria-concursos {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-top: 20px;
+    animation: fadeIn 0.4s ease-in-out;
+  }
+  
+  .galeria-concursos img {
+    width: 220px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+    transition: transform 0.2s ease;
+  }
+  
+  .galeria-concursos img:hover {
+    transform: scale(1.05);
+  }
+  
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  

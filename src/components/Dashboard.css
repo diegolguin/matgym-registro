@@ -1,0 +1,26 @@
+.dashboard {
+    text-align: center;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    margin: 20px auto;
+    max-width: 500px;
+  }
+  
+  .dashboard h2 {
+    color: #333;
+    margin-top: 10px;
+  }
+  
+  .dashboard p {
+    color: #666;
+    font-size: 16px;
+    margin-top: 8px;
+  }
+  
+  .dashboard .icon {
+    width: 80px;
+    height: auto;
+  }
+  
