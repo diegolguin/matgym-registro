@@ -80,3 +80,16 @@ Editar
 
 Accede al código completo del proyecto aquí:  
 🔗 [https://github.com/diegolguin/matgym-registro](https://github.com/diegolguin/matgym-registro)
+---
+
+## 🛠️ Cómo clonar y ejecutar este proyecto
+
+Sigue estos pasos para clonar el repositorio y levantar la app localmente:
+
+```bash
+git clone https://github.com/diegolguin/matgym-registro.git
+cd matgym-registro
+npm install
+npm run dev
+Luego abre en tu navegador:
+🔗 http://localhost:5173
